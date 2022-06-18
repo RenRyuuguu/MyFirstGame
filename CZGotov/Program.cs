@@ -1,7 +1,7 @@
 ﻿namespace CZGotov
 {
     internal class Program
-    {
+    { //Я тут проверил ГИТ)
         static void Main(string[] args)
         {
             Field Game = new Field();
